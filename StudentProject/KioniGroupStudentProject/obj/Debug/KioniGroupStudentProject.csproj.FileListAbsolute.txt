@@ -1,0 +1,10 @@
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\bin\Debug\KioniGroupStudentProject.exe.config
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\bin\Debug\KioniGroupStudentProject.exe
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\bin\Debug\KioniGroupStudentProject.pdb
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\obj\Debug\KioniGroupStudentProject.csprojAssemblyReference.cache
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\obj\Debug\KioniGroupStudentProject.Form1.resources
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\obj\Debug\KioniGroupStudentProject.Properties.Resources.resources
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\obj\Debug\KioniGroupStudentProject.csproj.GenerateResource.cache
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\obj\Debug\KioniGroupStudentProject.csproj.CoreCompileInputs.cache
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\obj\Debug\KioniGroupStudentProject.exe
+D:\BCS\WindowsFormApp\KioniGroupStudentProject\KioniGroupStudentProject\obj\Debug\KioniGroupStudentProject.pdb
